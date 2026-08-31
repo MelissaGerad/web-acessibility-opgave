@@ -15,13 +15,15 @@ body {
     color: #ffffff;
 }
 
-.header logo h1 {
+.header .logo  {
     display: inline-block;
     font-size: 48px;
+    color: #ffffff;
+    text-decoration: none;
 }
 
-.header logo h1 .seo {
-    color: #d9dcd6;
+.header .logo .seo {
+    color: #ffffff;
 }
 
 .header nav {
